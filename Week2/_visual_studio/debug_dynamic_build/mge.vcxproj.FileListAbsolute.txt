@@ -1,0 +1,11 @@
+C:\Users\Amber\source\repos\Week2\_visual_studio\debug_dynamic_exe\glew32d.dll
+C:\Users\Amber\source\repos\Week2\_visual_studio\debug_dynamic_exe\sfml-graphics-d-2.dll
+C:\Users\Amber\source\repos\Week2\_visual_studio\debug_dynamic_exe\sfml-window-d-2.dll
+C:\Users\Amber\source\repos\Week2\_visual_studio\debug_dynamic_exe\sfml-system-d-2.dll
+C:\Users\Amber\source\repos\Week2\_visual_studio\debug_dynamic_exe\freetyped.dll
+C:\Users\Amber\source\repos\Week2\_visual_studio\debug_dynamic_exe\zlibd1.dll
+C:\Users\Amber\source\repos\Week2\_visual_studio\debug_dynamic_exe\bz2d.dll
+C:\Users\Amber\source\repos\Week2\_visual_studio\debug_dynamic_exe\libpng16d.dll
+C:\Users\Amber\source\repos\Week2\_visual_studio\debug_dynamic_exe\brotlidec.dll
+C:\Users\Amber\source\repos\Week2\_visual_studio\debug_dynamic_exe\brotlicommon.dll
+C:\Users\Amber\source\repos\Week2\_visual_studio\debug_dynamic_build\mge.vcxproj.CopyComplete
